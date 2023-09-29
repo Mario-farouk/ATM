@@ -34,5 +34,5 @@ vii.	What is the percentage of transactions that are withdrawals, savings, balan
 viii.	What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
 ix.	Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
 x.	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
-# Then PowerBi 
+
 
