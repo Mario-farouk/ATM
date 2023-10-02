@@ -35,4 +35,5 @@ Transaction Type Dimension Table,
 <br>	Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
 <br>	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
 
-
+# interact with Dash Board IN NovyPro
+https://www.novypro.com/project/wisbybankdashboard
