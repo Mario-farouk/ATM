@@ -23,16 +23,16 @@ Transaction Type Dimension Table,
 # first star schema
 ![ATM Star Schema](https://github.com/Mario-farouk/ATM/assets/136117708/e378fc26-dbda-461c-850a-a8b8ac0f113a)
  # secound write queris 
- Wisabi Bank wants to answer several business problem questions related to its ATM transactions data, which include:
-1-	What is the average transaction amount by location and transaction type?
-2-	Which ATM location has the highest number of transactions per day, and at what time of the day do the transactions occur most frequently?
-3-	Which age group has the highest number of transactions, and which transaction type do they usually perform?
-4-	What is the trend of transaction volume and transaction amount over time, and are there any seasonal trends or patterns?
-5-	What is the most common transaction type, and how does it vary by location and customer type (Wisabi customer vs. non-Wisabi customer)?
-6-	What is the average transaction amount and transaction frequency per customer by occupation and age group?
-7-	What is the percentage of transactions that are withdrawals, savings, balance enquiries, and transfers, and how does it vary by location and time of day?
-8-	What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
-9-	Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
-10-	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
+<br> Wisabi Bank wants to answer several business problem questions related to its ATM transactions data, which include:
+1-<br>	What is the average transaction amount by location and transaction type?
+2-<br>	Which ATM location has the highest number of transactions per day, and at what time of the day do the transactions occur most frequently?
+3-<br>	Which age group has the highest number of transactions, and which transaction type do they usually perform?
+4-<br>	What is the trend of transaction volume and transaction amount over time, and are there any seasonal trends or patterns?
+5-<br>	What is the most common transaction type, and how does it vary by location and customer type (Wisabi customer vs. non-<br>Wisabi customer)?
+6-<br>	What is the average transaction amount and transaction frequency per customer by occupation and age group?
+7-<br>	What is the percentage of transactions that are withdrawals, savings, balance enquiries, and transfers, and how does it vary by location and time of day?
+8-<br>	What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
+9-<br>	Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
+10-<br>	What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
 
 
