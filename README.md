@@ -4,14 +4,14 @@ Wisabi Bank is a leading financial institution in Nigeria, headquartered in Lago
 The purpose of this project is to analyze the ATM transaction data for Wisabi Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services.
  # Business Requirment
 
-1-	Analyze the ATM transaction data and generate reports and visualizations that show the most popular ATM locations and transaction types by time of day, day of week, and month.
-2-	Calculate the average transaction amount per customer and per ATM location.
-3-	Analyze the number of transactions and transaction amounts by customer age group, gender, and occupation.
-4-	Analyze the distribution of transaction types by customer type (Wisabi customers vs. customers of other banks).
-5-	Analyze the impact of public holidays and weekends on ATM usage and transaction patterns.
-6-	Analyze the frequency and amounts of transfers between accounts and between different banks.
-7-	Evaluate the performance of each ATM location in terms of uptime, maintenance issues, and customer satisfaction.
-8-	Identify outliers and anomalies in the transaction data.
+<br>	Analyze the ATM transaction data and generate reports and visualizations that show the most popular ATM locations and transaction types by time of day, day of week, and month.
+<br>	Calculate the average transaction amount per customer and per ATM location.
+<br>	Analyze the number of transactions and transaction amounts by customer age group, gender, and occupation.
+<br>	Analyze the distribution of transaction types by customer type (Wisabi customers vs. customers of other banks).
+<br>	Analyze the impact of public holidays and weekends on ATM usage and transaction patterns.
+<br>	Analyze the frequency and amounts of transfers between accounts and between different banks.
+<br>	Evaluate the performance of each ATM location in terms of uptime, maintenance issues, and customer satisfaction.
+<br>	Identify outliers and anomalies in the transaction data.
 
  # Scope
 The data analytics project will involve analyzing the ATM transactions data, which includes the Transactions fact table,
