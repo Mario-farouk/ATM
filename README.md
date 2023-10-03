@@ -1,4 +1,4 @@
-# project prief
+# project brief
 Wisabi Bank is a leading financial institution in Nigeria, headquartered in Lagos with branches in Kano, Rivers State, Enugu, and FCT Abuja. Wisabi Bank provides a wide range of financial services to its customers, including savings accounts, current accounts, loans, and investments. As part of its commitment to improving customer experience and optimizing its operations, Wisabi Bank has engaged you as an external consultant to conduct a data analytics project to analyse its ATM transactions data.
 
 The purpose of this project is to analyze the ATM transaction data for Wisabi Bank to gain insights on customer behavior, ATM usage, and identify opportunities to improve the bank's services.
